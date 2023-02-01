@@ -1,0 +1,23 @@
+{
+  "name": "test-gh-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "github": "cake github"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/othelarian/test-gh-actions.git"
+  },
+  "author": "othelarian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/othelarian/test-gh-actions/issues"
+  },
+  "homepage": "https://github.com/othelarian/test-gh-actions#readme",
+  "devDependencies": {
+    "coffeescript": "^2.7.0",
+    "pug": "^3.0.2"
+  }
+}
