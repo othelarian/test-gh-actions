@@ -2,6 +2,7 @@ name: GH Delivery
 
 on:
   push:
+    branch: ["main"]
     tags:
       - '*'
 
